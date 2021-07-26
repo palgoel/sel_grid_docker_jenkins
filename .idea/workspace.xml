@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="883f52d1-4d8d-41a0-8918-f1477f479d01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sel_docker_aws.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_ch_ff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_chrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_firefox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_ch_ff.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_ch_ff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_chrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_chrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_firefox.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_firefox.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +120,9 @@
       <workItem from="1626854253564" duration="10091000" />
       <workItem from="1626887932856" duration="631000" />
       <workItem from="1626901239560" duration="11754000" />
-      <workItem from="1627016511993" duration="1580000" />
+      <workItem from="1627016511993" duration="3551000" />
+      <workItem from="1627157347657" duration="24000" />
+      <workItem from="1627159602190" duration="40147000" />
     </task>
     <servers />
   </component>
@@ -138,7 +134,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

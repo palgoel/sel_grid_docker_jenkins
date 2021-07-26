@@ -1,6 +1,10 @@
 FROM  python:3-alpine
 MAINTAINER Pallavi Rungta
+ENV BROWSER=chrome
+ENV HUB_HOST=localhost
 WORKDIR /usr/share/sel_test
 COPY . .
+RUN apk add curl jq
 RUN pip install --no-cache-dir -r requirements.txt
-CMD ["pytest", "-s", "-n=1"]
+ADD healthcheck.sh healthcheck.sh
+ENTRYPOINT pytest -s

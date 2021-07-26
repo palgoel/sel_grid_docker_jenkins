@@ -8,7 +8,7 @@ class BasicTestChrome:
 class Test_URL_Chrome(BasicTestChrome):
     @allure.description("Testcase to add num")
     @allure.severity(severity_level="CRITICAL")
-    def test_lambdatest_blog_load(self):
+    def test_chrome_title_ind(self):
         self.driver.get('https://www.lambdatest.com/blog/')
         expected_title = "LambdaTest | A Cross Browser Testing Blog"
         print(f"EXPECTED Title of Chrome=", expected_title)
